@@ -1,4 +1,4 @@
-# PDSTGCN-1 — Divvy 2017 physics-consistent training project
+# PDSTGCN-4 — Divvy 2017 physics-consistent training project
 
 This project is the Divvy adaptation of `StongKing/ASTGCN-r-pytorch-huaqi-dynamic-df` for the physics-guided dynamic graph forecasting pipeline described in the manuscript.
 
